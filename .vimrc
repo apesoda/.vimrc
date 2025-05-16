@@ -14,6 +14,7 @@ autocmd FileType python set tabstop=4 shiftwidth=4 expandtab
 
 """ Real languages
 autocmd FileType rust set tabstop=4 shiftwidth=4 expandtab
+autocmd FileType c set tabstop=4 shiftwidth=4 expandtab
 
 """ Other
 autocmd FileType make set tabstop=8 shiftwidth=8 noexpandtab
