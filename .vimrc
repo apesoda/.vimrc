@@ -1,5 +1,7 @@
 """ General
 syntax enable
+set autoindent
+set number
 
 """ Config mgmt
 autocmd FileType yaml setlocal ts=2 sts=2 sw=2 expandtab
